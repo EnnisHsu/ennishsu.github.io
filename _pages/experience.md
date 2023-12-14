@@ -17,10 +17,10 @@ Education Experience
     - Pyramid Model with the advanced features of Style GAN2, culminating in an improvement in the fine-grained classification accuracy of bone marrow cells
 - SCUT Robotics Lab - RoboMaster National University Student *advisor : Dong Zhang*
     - chief developer of Engineer Robot and Robot with Manipulator
-    - Implemented motion control for the robot¡¯s chassis and upper structures using CAN and serial communication protocols combined with cascaded control systems.
+    - Implemented motion control for the robots chassis and upper structures using CAN and serial communication protocols combined with cascaded control systems.
     - Utilized Coppeliasim simulations and finite state machine algorithms for automating the ammunition reloading process.
-    -  Achieved simulation of the six degrees of freedom in the robotic arm¡¯s joint movements using a combination of Coppeliasim simulations and Matlab computation
-    - Enhanced the arm¡¯s motion smoothness using cascaded control systems and polynomial interpolation algorithms.
+    -  Achieved simulation of the six degrees of freedom in the robotic arm's joint movements using a combination of Coppeliasim simulations and Matlab computation
+    - Enhanced the arm's motion smoothness using cascaded control systems and polynomial interpolation algorithms.
 
 Work Experience
 ===============
@@ -29,5 +29,5 @@ Work Experience
 - mainly work on Micro Processor Unit, Linux, Ros, Internet of Things
 - Masterfully engineered and implemented a range of essential software functionalities using Linux and ROS systems,
 including Over-The-Air (OTA) updates, comprehensive ship data integration and reporting, and sophisticated navigation log systems.
-- The systems developed contributed significantly to the advancement of maritime operations¡¯ intelligence, enabling users to conveniently monitor the current status and usage of their vessels.
+- The systems developed contributed significantly to the advancement of maritime operations' intelligence, enabling users to conveniently monitor the current status and usage of their vessels.
 **Sorry, due to confidentiality policy I cannot share more information or code about my work.**
