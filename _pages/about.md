@@ -19,7 +19,7 @@ Research Experience
 Project
 ========
 - Computer Vision-Based Study Room Seat Availability System
-- Tigery ¨C Intelligent Logistics Transport Unit
+- Tigery - Intelligent Logistics Transport Unit
 - Prize-awarding robot for Internet+ Event
 
 Awards
