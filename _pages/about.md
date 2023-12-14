@@ -15,7 +15,8 @@ Research Experience
 - Undergraduate Thesis : <Fine-grained Classification of Bone Marrow Cells Using Deep Learning>
 - SCUT Robotics Lab - RoboMaster National University Student Robot Competition
 - All terrain unmanned epidemic prevention robot based on cantilever six wheel chassis
-Project:
+
+Project
 ========
 - Computer Vision-Based Study Room Seat Availability System
 - Tigery ¨C Intelligent Logistics Transport Unit
