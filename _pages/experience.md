@@ -10,18 +10,12 @@ redirect_from:
 Education Experience
 ====================
 **Bachelor - South China University of Technology**
-- Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning
-
-**advisor : prof. Weining Wang**
-
+- Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
     - Utilized the Pytorch framework
     - Evaluate and contrast three cell classification algorithmic models: the Resnet50, Pairwise Interaction Network, and the Attention Pyramid Model
     - Conducted an analysis of diverse data augmentation strategies, encompassing conventional methods, Progressive GAN,and Style GAN2, to ascertain their impact on model performance.
     - Pyramid Model with the advanced features of Style GAN2, culminating in an improvement in the fine-grained classification accuracy of bone marrow cells
-- SCUT Robotics Lab - RoboMaster National University Student 
-
-**advisor : Prof. Dong Zhang**
-
+- SCUT Robotics Lab - RoboMaster National University Student **advisor : Prof. Dong Zhang**
     - chief developer of Engineer Robot and Robot with Manipulator
     - Implemented motion control for the robots chassis and upper structures using CAN and serial communication protocols combined with cascaded control systems.
     - Utilized Coppeliasim simulations and finite state machine algorithms for automating the ammunition reloading process.
