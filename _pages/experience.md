@@ -10,12 +10,14 @@ redirect_from:
 Education Experience
 ====================
 **Bachelor - South China University of Technology**
-- Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning *advisor : prof Weining Wang*
+- Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning
+**advisor : prof Weining Wang**
     - Utilized the Pytorch framework
     - Evaluate and contrast three cell classification algorithmic models: the Resnet50, Pairwise Interaction Network, and the Attention Pyramid Model
     - Conducted an analysis of diverse data augmentation strategies, encompassing conventional methods, Progressive GAN,and Style GAN2, to ascertain their impact on model performance.
     - Pyramid Model with the advanced features of Style GAN2, culminating in an improvement in the fine-grained classification accuracy of bone marrow cells
-- SCUT Robotics Lab - RoboMaster National University Student *advisor : Dong Zhang*
+- SCUT Robotics Lab - RoboMaster National University Student 
+**advisor : Dong Zhang**
     - chief developer of Engineer Robot and Robot with Manipulator
     - Implemented motion control for the robots chassis and upper structures using CAN and serial communication protocols combined with cascaded control systems.
     - Utilized Coppeliasim simulations and finite state machine algorithms for automating the ammunition reloading process.
@@ -25,9 +27,11 @@ Education Experience
 Work Experience
 ===============
 **Title : embedded software engineer**
+
 **Advisor : Zhongzhou Yang and Andreas Widy**
 - mainly work on Micro Processor Unit, Linux, Ros, Internet of Things
 - Masterfully engineered and implemented a range of essential software functionalities using Linux and ROS systems,
 including Over-The-Air (OTA) updates, comprehensive ship data integration and reporting, and sophisticated navigation log systems.
 - The systems developed contributed significantly to the advancement of maritime operations' intelligence, enabling users to conveniently monitor the current status and usage of their vessels.
+
 **Sorry, due to confidentiality policy I cannot share more information or code about my work.**
