@@ -12,7 +12,7 @@ I compeleted my B.S. degree in South China University of Techlogy in 2022.After 
 
 Research Experience
 ===================
-- Undergraduate Thesis : <Fine-grained Classification of Bone Marrow Cells Using Deep Learning>
+- Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning
 - SCUT Robotics Lab - RoboMaster National University Student Robot Competition
 - All terrain unmanned epidemic prevention robot based on cantilever six wheel chassis
 
