@@ -12,10 +12,12 @@ Education Experience
 **Bachelor - South China University of Technology**
 - Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
     - Utilized the Pytorch framework
-    - Evaluate and contrast three cell classification algorithmic models: the Resnet50, Pairwise Interaction Network, and the Attention Pyramid Model
-    - Conducted an analysis of diverse data augmentation strategies, encompassing conventional methods, Progressive GAN,and Style GAN2, to ascertain their impact on model performance.
+    - Evaluate and contrast three cell classification algorithmic models: the [Resnet50](https://github.com/EnnisHsu/Cell_Resnet/settings), Pairwise Interaction Network, and the Attention Pyramid Model
+    - Conducted an analysis of diverse data augmentation strategies, encompassing conventional methods, [Progressive GAN](https://github.com/EnnisHsu/progressive-gan-pytorch.git),and [Style GAN2](https://github.com/EnnisHsu/stylegan2-ada-pytorch.git), to ascertain their impact on model performance.
+    ![StyleGAN2_pic](https://ennishsu.github.io/images/StyleGAN2_cell.jpg)
     - Pyramid Model with the advanced features of Style GAN2, culminating in an improvement in the fine-grained classification accuracy of bone marrow cells
-- SCUT Robotics Lab - RoboMaster National University Student **advisor : Prof. Dong Zhang**
+
+- SCUT Robotics Lab - RoboMaster National University Student Robot Competition **advisor : prof. Dong Zhang**
     - chief developer of Engineer Robot and Robot with Manipulator
     - Implemented motion control for the robots chassis and upper structures using CAN and serial communication protocols combined with cascaded control systems.
     - Utilized Coppeliasim simulations and finite state machine algorithms for automating the ammunition reloading process.
@@ -24,6 +26,8 @@ Education Experience
 
 Work Experience
 ===============
+**Epropulsion Technology Co., Ltd.**
+
 **Title : embedded software engineer**
 
 **Advisor : Zhongzhou Yang and Andreas Widy**
