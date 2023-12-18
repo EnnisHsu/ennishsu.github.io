@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I compeleted my B.S. degree in South China University of Techlogy in 2022.After that, I joined Epropulsion Technology Co.,Ltd. as an embedded software engineer. My main work and research interests are robotics , AI and internet of things.
+I compeleted my B.Eng. degree in South China University of Techlogy in 2022.After that, I joined Epropulsion Technology Co.,Ltd. as an embedded software engineer. My main work and research interests are robotics , AI and internet of things.
 
 Research Experience
 ===================
