@@ -21,13 +21,17 @@ Education Experience
     - chief developer of Engineer Robot and Robot with Manipulator
     - Implemented motion control for the robots chassis and upper structures using CAN and serial communication protocols combined with cascaded control systems.
     - Utilized Coppeliasim simulations and finite state machine algorithms for automating the ammunition reloading process.
-    <video src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" width="640" height="480">
-    </videos>
     -  Achieved simulation of the six degrees of freedom in the robotic arm's joint movements using a combination of Coppeliasim simulations and Matlab computation
     - Enhanced the arm's motion smoothness using cascaded control systems and polynomial interpolation algorithms.
+    <video src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" width="640" height="480">
+    </videos>
+
+    <video src="https://ennishsu.github.io/images/Tigery.mp4" width="640" height="480">
+    </videos>
 
 Work Experience
 ===============
+
 **Epropulsion Technology Co., Ltd.**
 
 **Title : embedded software engineer**
