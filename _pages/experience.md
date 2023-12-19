@@ -7,8 +7,7 @@ redirect_from:
   - /experience
 ---
 
-Education Experience
-====================
+# Education Experience
 **Bachelor - South China University of Technology**
 - Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
     - Utilized the Pytorch framework
@@ -24,18 +23,22 @@ Education Experience
     -  Achieved simulation of the six degrees of freedom in the robotic arm's joint movements using a combination of Coppeliasim simulations and Matlab computation
     - Enhanced the arm's motion smoothness using cascaded control systems and polynomial interpolation algorithms.
 
-<video width="640" height="480" controls>
-  <source src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" type="video/mp4">
-</videos>
+<iframe src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" width="640" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
 
-<video width="640" height="480" controls>
-  <source src="https://ennishsu.github.io/images/Tigery.mp4" type="video/mp4">
-</videos>
+<iframe src="https://ennishsu.github.io/images/Tigery.mp4" width="640" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
+
+<!-- <video width="640" height="480" controls>
+  <source id="Engineer" src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" type="video/mp4">
+</videos>   -->
+
+<!-- <video width="640" height="480" controls>
+  <source id="Tigery" src="https://ennishsu.github.io/images/Tigery.mp4" type="video/mp4">
+</videos> -->
 
 
-Work Experience
-===============
-
+# Work Experience
 **Epropulsion Technology Co., Ltd.**
 
 **Title : embedded software engineer**
