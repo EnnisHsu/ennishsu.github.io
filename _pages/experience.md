@@ -24,13 +24,14 @@ Education Experience
     -  Achieved simulation of the six degrees of freedom in the robotic arm's joint movements using a combination of Coppeliasim simulations and Matlab computation
     - Enhanced the arm's motion smoothness using cascaded control systems and polynomial interpolation algorithms.
 
-    <video width="640" height="480" controls>
-      <source src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" type="video/mp4">
-    </videos>
+<video width="640" height="480" controls>
+  <source src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" type="video/mp4">
+</videos>
 
-    <video width="640" height="480" controls>
-      <source src="https://ennishsu.github.io/images/Tigery.mp4" type="video/mp4">
-    </videos>
+<video width="640" height="480" controls>
+  <source src="https://ennishsu.github.io/images/Tigery.mp4" type="video/mp4">
+</videos>
+
 
 Work Experience
 ===============
