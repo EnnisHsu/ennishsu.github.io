@@ -23,10 +23,10 @@ redirect_from:
     -  Achieved simulation of the six degrees of freedom in the robotic arm's joint movements using a combination of Coppeliasim simulations and Matlab computation
     - Enhanced the arm's motion smoothness using cascaded control systems and polynomial interpolation algorithms.
 
-<iframe src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" width="640" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+<iframe src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" width="480" height="320" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
 </iframe>
 
-<iframe src="https://ennishsu.github.io/images/Tigery.mp4" width="640" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+<iframe src="https://ennishsu.github.io/images/Tigery.mp4" width="480" height="320" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
 </iframe>
 
 <!-- <video width="640" height="480" controls>
@@ -47,6 +47,8 @@ redirect_from:
 - mainly work on Micro Processor Unit, Linux, Ros, Internet of Things
 - Masterfully engineered and implemented a range of essential software functionalities using Linux and ROS systems,
 including Over-The-Air (OTA) updates, comprehensive ship data integration and reporting, and sophisticated navigation log systems.
+![data_pic](https://ennishsu.github.io/images/Outboardmachine_data.png)
+![ota_pic](https://ennishsu.github.io/images/ota.png)
 - The systems developed contributed significantly to the advancement of maritime operations' intelligence, enabling users to conveniently monitor the current status and usage of their vessels.
 
 **Sorry, due to confidentiality policy I cannot share more information or code about my work.**
