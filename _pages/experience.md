@@ -23,10 +23,13 @@ Education Experience
     - Utilized Coppeliasim simulations and finite state machine algorithms for automating the ammunition reloading process.
     -  Achieved simulation of the six degrees of freedom in the robotic arm's joint movements using a combination of Coppeliasim simulations and Matlab computation
     - Enhanced the arm's motion smoothness using cascaded control systems and polynomial interpolation algorithms.
-    <video src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" width="640" height="480">
+
+    <video width="640" height="480" controls>
+      <source src="https://ennishsu.github.io/images/Enginner_Simulation.mp4" type="video/mp4">
     </videos>
 
-    <video src="https://ennishsu.github.io/images/Tigery.mp4" width="640" height="480">
+    <video width="640" height="480" controls>
+      <source src="https://ennishsu.github.io/images/Tigery.mp4" type="video/mp4">
     </videos>
 
 Work Experience
