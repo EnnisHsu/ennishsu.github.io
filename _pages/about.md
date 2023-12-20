@@ -12,13 +12,13 @@ I compeleted my B.Eng. degree in South China University of Techlogy in 2022.Afte
 
 Research Experience
 ===================
-- Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning
-- SCUT Robotics Lab - RoboMaster National University Student Robot Competition
+- [Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning](https://ennishsu.github.io/experience)
+- [SCUT Robotics Lab - RoboMaster National University Student Robot Competition](https://ennishsu.github.io/experience)
 - All terrain unmanned epidemic prevention robot based on cantilever six wheel chassis
 
 Project
 ========
-- Computer Vision-Based Study Room Seat Availability System
+- [Computer Vision-Based Study Room Seat Availability System](https://ennishsu.github.io/experience)
 - Tigery - Intelligent Logistics Transport Unit
 - Prize-awarding robot for Internet+ Event
 
