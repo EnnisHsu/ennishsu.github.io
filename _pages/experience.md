@@ -53,6 +53,7 @@ redirect_from:
 - mainly work on Micro Processor Unit, Linux, Ros, Internet of Things
 - Masterfully engineered and implemented a range of essential software functionalities using Linux and ROS systems,
 including [Over-The-Air (OTA)](https://ennishsu.github.io/images/ota.png) updates, comprehensive ship data integration and reporting, and sophisticated navigation log systems.
+
 ![data_pic](https://ennishsu.github.io/images/Outboardmachine_data.png)
 - The systems developed contributed significantly to the advancement of maritime operations' intelligence, enabling users to conveniently monitor the current status and usage of their vessels.
 
