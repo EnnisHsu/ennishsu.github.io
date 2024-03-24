@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /experience
+  - /research
 ---
 
 # Education Experience
@@ -43,18 +43,3 @@ redirect_from:
   <source id="Tigery" src="https://ennishsu.github.io/images/Tigery.mp4" type="video/mp4">
 </videos> -->
 
-
-# Work Experience
-**Epropulsion Technology Co., Ltd.**
-
-**Title : embedded software engineer**
-
-**Advisor : Zhongzhou Yang and Andreas Widy**
-- mainly work on Micro Processor Unit, Linux, Ros, Internet of Things
-- Masterfully engineered and implemented a range of essential software functionalities using Linux and ROS systems,
-including [Over-The-Air (OTA)](https://ennishsu.github.io/images/ota.png) updates, comprehensive ship data integration and reporting, and sophisticated navigation log systems.  
-
-![data_pic](https://ennishsu.github.io/images/Outboardmachine_data.png#pic_center)
-- The systems developed contributed significantly to the advancement of maritime operations' intelligence, enabling users to conveniently monitor the current status and usage of their vessels.
-
-**Sorry, due to confidentiality policy I cannot share more information or code about my work.**
