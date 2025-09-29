@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I'm a M.Phil. student under supervise by [prof. Fumin Zhang](https://fumin-home.hkust.edu.hk/) at The Hong Kong University of Science and Technology (since August 2024) and a former Embedded Software Engineer at ePropulsion Technology (2022–2024). Earlier, I obtained my B.ENG degree in South China University of Technology. I focus on building reliable software stacks for marine navigation. My interests include marine robotics and autonomous vessels, applied machine learning/computer vision, and dependable IoT platforms. I’m currently seeking roles focused on embedded systems and algorithm development.
+Currently, I'm a M.Phil. student under supervise by [prof. Fumin Zhang](https://fumin-home.hkust.edu.hk/) at The Hong Kong University of Science and Technology (since August 2024) and a former Embedded Software Engineer at [ePropulsion Technology](https://www.epropulsion.com/) (2022–2024). Earlier, I obtained my B.ENG degree in South China University of Technology. I focus on building reliable software stacks for marine navigation. My interests include marine robotics and autonomous vessels, applied machine learning/computer vision, and dependable IoT platforms. I’m currently seeking for job opportunity on embedded systems and algorithm development.
 
 Education
 ===================
