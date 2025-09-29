@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 # Education Experience
+**Master of Philosophy - the Hong Kong University of Science and Technology**
+  ***advisor : prof. Fumin Zhang***
+
 **Bachelor - South China University of Technology**
 - Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
     - Utilized the Pytorch framework

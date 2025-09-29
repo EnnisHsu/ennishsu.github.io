@@ -7,12 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Currently, I'm a M.Phil. student under supervise by [prof. Fumin Zhang](https://fumin-home.hkust.edu.hk/) at The Hong Kong University of Science and Technology (since August 2024) and a former Embedded Software Engineer at ePropulsion Technology (2022–2024). Earlier, I obtained my B.ENG degree in South China University of Technology. I focus on building reliable software stacks for marine navigation. My interests include marine robotics and autonomous vessels, applied machine learning/computer vision, and dependable IoT platforms. I’m currently seeking roles focused on embedded systems and algorithm development.
 
-I compeleted my B.Eng. degree in South China University of Techlogy in 2022.After that, I joined Epropulsion Technology Co.,Ltd. as an embedded software engineer. My main work and research interests are robotics , AI and internet of things.
+Education
+===================
+- Master of Philosophy - Electronic and Computer Engineering, the Hong Kong University of Science and Technology, 2024.08 - current
+- Bachelor - Information Engineering, South China University of Technology, 2018.09 - 2022.06
 
 Work Experience
 ===================
-- [Guangdong Epropulsion Technology Co.,Ltd. 2022.07 - current](http://ennishsu.github.io/work)
+- [Guangdong Epropulsion Technology Co.,Ltd. 2022.07 - 2024.08](http://ennishsu.github.io/work)
 
 Research Experience
 ===================
@@ -20,7 +24,7 @@ Research Experience
 - [SCUT Robotics Lab - RoboMaster National University Student Robot Competition](https://ennishsu.github.io/research)
 - All terrain unmanned epidemic prevention robot based on cantilever six wheel chassis
 
-Project
+Projects
 ========
 - [Computer Vision-Based Study Room Seat Availability System](https://ennishsu.github.io/research)
 - Tigery - Intelligent Logistics Transport Unit
@@ -29,6 +33,6 @@ Project
 Awards
 ======
 - ROBOMASTER2021 National College Robot Competition, First Prize
-- 2021 Huawei Embedded Software Competition - Light Chaser(Southern Division), Secnod Prize
+ - 2021 Huawei Embedded Software Competition - Light Chaser (Southern Division), Second Prize
 - ROBOMASTER2020 National College Robot Competition, First Prize
 - Guangdong Collegiate Programming Contest, Third Prize
