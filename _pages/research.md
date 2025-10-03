@@ -22,8 +22,8 @@ redirect_from:
   
   The project is currently in the simulation–validation stage, using the VRX simulator (built on ROS 2 and Gazebo) for experiments. A selection of results is shown below.
 
-  <iframe src="https://ennishsu.github.io/images/vrx.MOV" width="480" height="320" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-  </iframe>
+<iframe src="https://ennishsu.github.io/images/vrx.mp4" width="480" height="320" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
 
 **Bachelor - South China University of Technology**
 - Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
