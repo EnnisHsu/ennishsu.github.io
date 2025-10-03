@@ -11,6 +11,16 @@ redirect_from:
 **Master of Philosophy - the Hong Kong University of Science and Technology**
   ***advisor : prof. Fumin Zhang***
 
+  ***Fully autonomous docking system suitable for small sized vessels***
+  I’m currently building an autonomous docking system for small vessels. The system is organized into four layers—perception, user interaction, path planning, and motion control—and my work focuses on improving the path planning and motion control components.
+
+  - Objective & scenarios: Achieve end-to-end autonomous docking in narrow waters such as marinas and around buoys, covering far-field guidance, obstacle-aware approach, terminal alignment, and final berthing, with an emphasis on practical deployment and reliability.
+
+  - Path planning layer: We combine A* with Reeds–Shepp to search for low-risk routes, integrating costs for obstacle clearance, channel deviation, and steering effort. This balances exploration with efficiency to rapidly generate a reference path. ![rs astar path](https://ennishsu.github.io/images/rsastar.jpg)
+  - Motion control layer: The motion control component is built on a simplified 3-DoF vessel dynamics model, with constraints on thrust, rudder angle, angular rate, and minimum safety distance. We use NMPC to track the reference path and convert it into control commands, improving convergence and disturbance rejection. In addition, because environmental effects on the water—such as wind and current—are difficult to model, we will train a model to compensate disturbances online within the NMPC prediction model to improve path-tracking accuracy.
+  
+  The project is currently in the simulation–validation stage, using the VRX simulator (built on ROS 2 and Gazebo) for experiments. A selection of results is shown below.
+
 **Bachelor - South China University of Technology**
 - Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
     - Utilized the Pytorch framework
