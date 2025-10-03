@@ -12,6 +12,7 @@ redirect_from:
   ***advisor : prof. Fumin Zhang***
 
   ***Fully autonomous docking system suitable for small sized vessels***
+
   I’m currently building an autonomous docking system for small vessels. The system is organized into four layers—perception, user interaction, path planning, and motion control—and my work focuses on improving the path planning and motion control components.
 
   - Objective & scenarios: Achieve end-to-end autonomous docking in narrow waters such as marinas and around buoys, covering far-field guidance, obstacle-aware approach, terminal alignment, and final berthing, with an emphasis on practical deployment and reliability.
@@ -20,6 +21,9 @@ redirect_from:
   - Motion control layer: The motion control component is built on a simplified 3-DoF vessel dynamics model, with constraints on thrust, rudder angle, angular rate, and minimum safety distance. We use NMPC to track the reference path and convert it into control commands, improving convergence and disturbance rejection. In addition, because environmental effects on the water—such as wind and current—are difficult to model, we will train a model to compensate disturbances online within the NMPC prediction model to improve path-tracking accuracy.
   
   The project is currently in the simulation–validation stage, using the VRX simulator (built on ROS 2 and Gazebo) for experiments. A selection of results is shown below.
+
+  <iframe src="https://hkustconnect-my.sharepoint.com/personal/zxudx_connect_ust_hk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fzxudx%5Fconnect%5Fust%5Fhk%2FDocuments%2FGroup%20Work%2FGroup%20Meeting%2F40m%5Fof5%5Ftest%5F1%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea34d4bc7%2Da2f1%2D447c%2Db880%2D1e1cbb4eeb51" width="480" height="320" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+  </iframe>
 
 **Bachelor - South China University of Technology**
 - Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning **advisor : prof. Weining Wang**
