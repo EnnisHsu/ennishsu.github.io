@@ -20,6 +20,7 @@ Work Experience
 
 Research Experience
 ===================
+- [Postgraduate Project: Fully autonomous docking system suitable for small sized vessels](https://ennishsu.github.io/research)
 - [Undergraduate Thesis : Fine-grained Classification of Bone Marrow Cells Using Deep Learning](https://ennishsu.github.io/research)
 - [SCUT Robotics Lab - RoboMaster National University Student Robot Competition](https://ennishsu.github.io/research)
 - All terrain unmanned epidemic prevention robot based on cantilever six wheel chassis

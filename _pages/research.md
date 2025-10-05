@@ -11,7 +11,7 @@ redirect_from:
 **Master of Philosophy - the Hong Kong University of Science and Technology**
   ***advisor : prof. Fumin Zhang***
 
-  ***Fully autonomous docking system suitable for small sized vessels***
+  ***Postgraduate Project: Fully autonomous docking system suitable for small sized vessels***
 
   I’m currently building an autonomous docking system for small vessels. The system is organized into four layers—perception, user interaction, path planning, and motion control—and my work focuses on improving the path planning and motion control components.
 
