@@ -26,7 +26,7 @@ redirect_from:
 </noscript>
 
 ### Having trouble viewing the PDF?
-[Download PDF CV]({{ '/files/CV_ZelongXu.pdf' | relative_url }}) (recommended for printing)
+[Download PDF CV]({{ '/files/CV_ZelongXu.pdf' | relative_url }})
 
 ---
 Last updated: {{ site.time | date: '%Y-%m-%d' }}
